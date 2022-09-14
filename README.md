@@ -7,7 +7,7 @@ Nessa aula além de eu te trazer uma teoria completa, com exemplos e diagramas q
 
 Após essa aula com certeza você irá fixar esse pattern e aplicar no dia a dia em algum code review ou até numa implementação de um serviço so zero!
 
-- Slides: 
+- Slides: https://docs.google.com/presentation/d/1wPo5W-nupTY2ZnpbZUN7lsRu0OEQn6CNDXFsQV7LicA/edit?usp=sharing
 
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/anabneri) |
